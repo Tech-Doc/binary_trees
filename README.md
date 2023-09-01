@@ -1,5 +1,3 @@
-# binary_trees
-
 perpetual
 femi
 
